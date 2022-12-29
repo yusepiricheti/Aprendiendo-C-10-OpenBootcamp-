@@ -1,0 +1,7 @@
+//Escribe un programa que tome la hora y la escriba por pantalla.
+//Hora actual
+Console.WriteLine("Escriba la hora ");
+var Hora = (Console.ReadLine());
+
+//Digitara por consola
+Console.WriteLine("La hora actual es: "+ Hora );
