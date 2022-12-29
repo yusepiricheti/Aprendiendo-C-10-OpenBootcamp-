@@ -1,0 +1,7 @@
+//Escribe un programa que reciba tu nombre y lo escriba en consola
+//Nombre del usuario
+Console.WriteLine("Escribe tu nombre");
+string Nombre = (Console.ReadLine());
+
+
+Console.WriteLine("Tu nombre es:");
